@@ -16,37 +16,4 @@ Status
 
 <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot05.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot05_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot04.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot04_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot02.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot02_thumb.jpg" width="145px" height="auto" /></a> &nbsp; <a href="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot06.png"><img src="https://raw.github.com/Vhati/ftl-profile-editor/master/img/screenshot06_thumb.jpg" width="145px" height="auto" /></a>
 
-To download compiled binaries, [click here](https://github.com/przemub/ftl-profile-editor/releases/tag/v28).
-
-Comments can be made in a forum thread [here](https://subsetgames.com/forum/viewtopic.php?f=7&t=10959).
-
-The original author (Vhadi) can accept PayPal donations [here](https://vhati.github.io/donate.html).
-
-
-Usage
------
-* Quit FTL to before editing profiles.
-<br /><br />
-* For saved games, you must NOT be actively playing a campaign.
-    * FTL 1.5.4+: The main menu is safe.
-    * FTL 1.01-1.03.3: "Save+Quit".
-<br /><br />
-* Double-click FTLProfileEditor.exe.
-* Switch to the appropriate tab: "Profile" or "Saved Game".
-* Open a profile (ae_prof.sav or prof.sav) or saved game (continue.sav).
-* Make any desired changes, and save.
-<br /><br />
-* Continue playing FTL.
-
-
-Requirements
-------------
-* Java (11 or higher).
-    * http://www.java.com/en/download/
-* FTL (1.01-1.03.3 or 1.5.4-1.6.2, Windows/OSX/Linux, Steam/GOG/Standalone).
-    * https://subsetgames.com/
-
-
-History
--------
-This project forked to release v12 and continue development. The original codebase started by ComaToes can be found [here](https://github.com/ComaToes/ftl-profile-editor) and its associated forum thread is [here](https://subsetgames.com/forum/viewtopic.php?f=7&t=2877).
+To download compiled binaries, [click here

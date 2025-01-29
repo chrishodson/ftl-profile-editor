@@ -8,6 +8,12 @@
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
+				<dictionary>
+					<entry>
+						<key>org.eclipse.jdt.core.compiler.codegen.targetPlatform</key>
+						<value>21</value>
+					</entry>
+				</dictionary>
 			</arguments>
 		</buildCommand>
 		<buildCommand>

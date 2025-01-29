@@ -69,7 +69,7 @@ if [ -n "${java_cmd}" ]; then
   # I don't feel like scraping java's version string to conditionally add args.
   # Ignorable args NEED an equals for their value.
 
-  "${java_cmd}" -XX:+IgnoreUnrecognizedVMOptions --add-modules=java.xml.bind -jar FTLProfileEditor.jar;
+  "${java_cmd}" -XX:+IgnoreUnrecognizedVMOptions -jar FTLProfileEditor.jar;
 
 else
 
